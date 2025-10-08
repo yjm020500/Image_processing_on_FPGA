@@ -34,7 +34,7 @@
   
   - 총 11개의 필터링 모드가 존재합니다.
   - 오리지널, grayscale, RGB 필터, 색상 반전, 특정 색만 강조, edge detection 등이 가능합니다.
-  - Edge detection의 경우 Sobel 필터를 사용하였으며, 3개의 line memory로
+  - Edge detection의 경우 Sobel 필터를 사용하였으며, 3개의 line memory로<br>
     전체 프레임 저장 없이 edge detection하였습니다.
   <br>
     <img width="1362" height="627" alt="image" src="https://github.com/user-attachments/assets/6d93ecb6-7655-4d11-ab22-b0f4319ef4fd" />
