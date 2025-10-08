@@ -7,7 +7,7 @@
   - 이때 이미지는 QVGA 규격이며, RGB 444입니다.
   - 선택한 필터 번호는 7-segment로 표시됩니다.
   - 출력된 GPIO 신호는 VGA666 컨버터를 통해 VGA 신호로 바뀌고, HDMI 컨버터로 최종 변환되어 모니터에 입력됩니다.
-  - 자세한 내용은 아래 링크에서 확인할 수 있습니다.<br>
+  - 추가 내용은 아래 링크에서 확인할 수 있습니다.<br>
     [발표자료](https://github.com/yjm020500/Image_processing_on_FPGA/blob/main/Docs/FPGA%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%A4%EC%8B%9C%EA%B0%84_%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC_%EC%9C%A4%EC%A2%85%EB%AF%BC%2C%EC%A0%95%EC%9B%90%EC%9A%B1.pdf)
 <br>
 
